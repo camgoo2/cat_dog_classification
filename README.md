@@ -1,5 +1,5 @@
-# cat_dog_classification
-A machine learning classification model
+# cat_vs_dog_classification
+A machine learning classifies Cats and Dogs using Convolutional Neural Networks (CNNs) and Image Augmentation
 
 # https://www.youtube.com/watch?v=rbsWdaZYahE good link for creating a virtual environment for tensorflow in Jupyter notebook,
 # needed to make sure my pip was compatible changed from 20.2.3 to 23.3.2 as was not able to pip install tensorflow 
